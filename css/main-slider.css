@@ -1,0 +1,14 @@
+.slider-wrapper .slider-item {
+	height: 790px;
+	position: relative;
+}
+.slider-wrapper .slider-item-img{
+	height: 300px;
+	background-size: cover;
+	background-position: center center;
+}
+.slider-wrapper .item-caption{
+	position: absolute;
+	bottom: 0px;
+	height: 490px;
+}
